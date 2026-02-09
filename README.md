@@ -15,6 +15,7 @@ The project is organized by problem (P1, P2, P3).
 Each problem follows the same directory structure:
 
 P1/
+
  ├─ source/
  
  ├─ tests/
@@ -24,15 +25,23 @@ P1/
  └─ pylint/
 
 P2/
+ 
  ├─ source/
+ 
  ├─ tests/
+ 
  ├─ results/
+ 
  └─ pylint/
 
 P3/
+
  ├─ source/
+ 
  ├─ tests/
+ 
  ├─ results/
+ 
  └─ pylint/
 
 Folder Description
