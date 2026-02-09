@@ -65,8 +65,11 @@ All programs are designed to be executed from their corresponding source directo
 Each script is executed from the command line and receives an input file as a parameter.
 
 Example:
+
 python computeStatistics.py ..\tests\TC1.txt
+
 python convertNumbers.py ..\tests\TC1.txt
+
 python wordCount.py ..\tests\TC1.txt
 
 A short video demonstrating the execution and results of the programs is included.
