@@ -11,9 +11,10 @@ computeStatistics.py | convertNumbers.py | wordCount.py
 Project Structure
 
 The project is organized by problem (P1, P2, P3).
+
 Each problem follows the same directory structure:
 
-P1/
+P1/ (computeStatistics.py)
 
  ├─ source/
  
@@ -23,7 +24,7 @@ P1/
  
  └─ pylint/
 
-P2/
+P2/ (convertNumbers.py)
  
  ├─ source/
  
@@ -33,7 +34,7 @@ P2/
  
  └─ pylint/
 
-P3/
+P3/ (wordCount.py)
 
  ├─ source/
  
