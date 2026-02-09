@@ -16,8 +16,11 @@ Each problem follows the same directory structure:
 
 P1/
  ├─ source/
+ 
  ├─ tests/
+ 
  ├─ results/
+ 
  └─ pylint/
 
 P2/
