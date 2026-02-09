@@ -6,11 +6,7 @@ This repository contains the code developed for Activity 4.2.
 
 It includes three Python scripts:
 
-computeStatistics.py
-
-convertNumbers.py
-
-wordCount.py
+computeStatistics.py | convertNumbers.py | wordCount.py
 
 Project Structure
 
