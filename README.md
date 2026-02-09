@@ -8,6 +8,7 @@ It includes three Python scripts:
 
 computeStatistics.py | convertNumbers.py | wordCount.py
 
+
 Project Structure
 
 The project is organized by problem (P1, P2, P3).
